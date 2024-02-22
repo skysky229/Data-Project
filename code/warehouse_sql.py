@@ -1,7 +1,7 @@
 bcreate_staging_receipts = ("""
      DROP TABLE IF EXISTS staging_receipts;
      CREATE TABLE staging_receipts (
-          user VARCHAR(255),
+          customer VARCHAR(255),
           order_id VARCHAR(255),
           store VARCHAR(255),
           destination VARCHAR(255),
@@ -10,7 +10,7 @@ bcreate_staging_receipts = ("""
           raw_cost INTEGER,
           shipping_cost INTEGER,
           service_cost INTEGER,
-          user_paid INTEGER
+          customer_paid INTEGER
      );
 """)
 
@@ -39,7 +39,7 @@ create_facts = ("""
      CREATE TABLE grabfood_facts (
           order_id VARCHAR(14) PRIMARY KEY,
           time_id INTEGER,
-          user_id INTEGER,
+          customer_id INTEGER,
           store_id INTEGER,
           destination_id INTEGER,
           payment_method_id INTEGER,
@@ -103,10 +103,10 @@ create_promotion_dim = ("""
      );
 """)
 
-create_user_dim = ("""
-     DROP TABLE IF EXISTS user_dim;
-     CREATE TABLE user_dim (
-          user_id INTEGER AUTO_INCREMENT PRIMARY KEY,
+create_customer_dim = ("""
+     DROP TABLE IF EXISTS customer_dim;
+     CREATE TABLE customer_dim (
+          customer_id INTEGER AUTO_INCREMENT PRIMARY KEY,
           username VARCHAR(255)
      );
 """)
@@ -164,9 +164,9 @@ load_promotion_dim = ("""
      );
 """)
 
-load_user_dim = ("""
-     INSERT INTO user_dim(username) (
-          SELECT DISTINCT(user) FROM staging_receipts
+load_customer_dim = ("""
+     INSERT INTO customer_dim(customername) (
+          SELECT DISTINCT(customer) FROM staging_receipts
      );
 """)
 
@@ -191,26 +191,24 @@ load_time_dim = ("""
 """)
 
 load_facts = ("""
-     INSERT INTO grabfood_facts(order_id,time_id,user_id,store_id,destination_id,payment_method_id,raw_cost,shipping_cost,service_cost,final_cost) (
+     INSERT INTO grabfood_facts(order_id,time_id,customer_id,store_id,destination_id,payment_method_id,raw_cost,shipping_cost,service_cost,final_cost) (
           SELECT DISTINCT 
                s.order_id,
                (SELECT time_id FROM time_dim WHERE s.time = full_time),
-               (SELECT user_id FROM user_dim WHERE s.user = username),
+               (SELECT customer_id FROM customer_dim WHERE s.customer = customername),
                (SELECT store_id FROM store_dim WHERE s.store = store_name),
                (SELECT location_id FROM location_dim WHERE s.destination = address),
                (SELECT payment_method_id FROM payment_method_dim WHERE s.payment_method = payment_method),
                raw_cost,
                shipping_cost,
                service_cost,
-               user_paid
+               customer_paid
           FROM staging_receipts s
      );    
 """)
 
-SELECT (SELECT time_id FROM time_dim WHERE s.time = full_time) FROM staging_receipts s
-
-alter_grabfood_fact_userid_foreign = ("""
-    ALTER TABLE grabfood_fact ADD CONSTRAINT grabfood_fact_userid_foreign FOREIGN KEY (user_id) REFERENCES user_dim(user_id);
+alter_grabfood_fact_customerid_foreign = ("""
+    ALTER TABLE grabfood_fact ADD CONSTRAINT grabfood_fact_customerid_foreign FOREIGN KEY (customer_id) REFERENCES customer_dim(customer_id);
 """)
 
 alter_promotion_dim_orderid_foreign = ("""

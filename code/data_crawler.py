@@ -103,7 +103,7 @@ def convert_to_csv(dict_list,folder_path,file_name):
     fieldnames = dict_list[0].keys()
 
     with open(filepath, 'w', newline='') as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames, quoting=csv.QUOTE_NONNUMERIC)
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter=';')
         writer.writeheader()
         for item in dict_list:
             writer.writerow(item)
@@ -112,7 +112,7 @@ def convert_to_csv(dict_list,folder_path,file_name):
 def format_number(input):
     if input is None or input == '':
         return None
-    return re.findall(r'\d+',input)[0]
+    return int(re.findall(r'\d+',input)[0])
 
 # Convert the time to date/month/year hour/minute GMT format
 def format_time(input):
@@ -151,8 +151,8 @@ if __name__ == '__main__':
     all_promo = [promo for sublist in all_promo for promo in sublist]
 
     # Write the information to csv files
-    convert_to_csv(all_receipt,data_path,'all_receipt.csv')
-    convert_to_csv(all_item,data_path,'all_item.csv')
-    convert_to_csv(all_promo,data_path,'all_promo.csv')
+    convert_to_csv(all_receipt,data_path,'all_receipts.csv')
+    convert_to_csv(all_item,data_path,'all_items.csv')
+    convert_to_csv(all_promo,data_path,'all_promos.csv')
 
 

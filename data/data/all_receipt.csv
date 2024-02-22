@@ -1,57 +1,57 @@
-"user","order_id","store","destination","time","payment_method","raw_cost","shipping_cost","service_cost","user_paid"
-"Huy Thiên","A-378QURPGWH6W","Mr. Kitchen - Bánh Canh Cua - Nguyễn Cửu Vân","1/12, Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, Ho Chi Minh City, 70000","2022/03/13 11:06:00","Cash","48000","16000","2000","69000"
-"Huy Thiên","A-378QL7LWWIB7","Mr. Kitchen - Bánh Canh Cua - Nguyễn Cửu Vân","1/12, Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, Ho Chi Minh City, 70000","2022/03/13 11:02:00","Cash","288000","16000","2000","206000"
-"Huy Thiên","A-3AO2C8JWWGSM","Phở Phú Khương - Bạch Đằng","1/12, Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, Ho Chi Minh City, 70000","2022/04/09 11:04:00","Cash","300000","16000","2000","273000"
-"Huy Thiên","A-3BXN3MFWWGSM","Hủ Tiếu Xuân Kí Mì Gia","1/12, Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, Ho Chi Minh City, 70000","2022/04/11 19:16:00","Cash","480000","16000","2000","428000"
-"Huy Thiên","A-3CJWVKHGWF2U","The ""MỲ QUẢNG"" House & Coffee Bar","1/12, Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, Ho Chi Minh City, 70000","2022/04/23 18:31:00","Cash","165000","16000","2000","118000"
-"Huy Thiên","A-3DFPJWCGWF4Q","Bò Kho & Cà Ri Gà Xuân Thảo","1/12, Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, Ho Chi Minh City, 70000","2022/04/30 18:06:00","Cash","200000","21000","2000","139000"
-"Huy Thiên","A-3EJTAQRWWGNC","Bún Thịt Xào - Dì Yến Bến Tre","268 Lý Thường Kiệt, P.14, Q.10, Hồ Chí Minh, 70000, Vietnam","2022/05/09 12:30:00","Cash","114000","16000","2000","82000"
-"Huy Thiên","A-3F88JI9WWFJA","Bún Mọc 123","1/12, Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, Ho Chi Minh City, 70000","2022/05/14 11:04:00","Cash","240000","16000","2000","213000"
-"Huy Thiên","A-3LJ2MWPWWHWT","Tiệm Chè Mùa Hè - Phạm Viết Chánh","1/12, Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, Ho Chi Minh City, 70000","2022/07/02 16:34:00","Cash","199000","16000","6000","171000"
-"Huy Thiên","A-3P5JF52WWEK2","Bún Chả Hà Nội 1982 -  Nguyễn Ngọc Lộc","268 Lý Thường Kiệt, P.14, Q.10, Hồ Chí Minh, 70000, Vietnam","2022/07/30 11:42:00","Cash","115320","16000","2000","78320"
-"Huy Thiên","A-3QMURLVG2GXQ","Cháo Sườn Cô Giang - Đinh Tiên Hoàng","1/12, Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, Ho Chi Minh City, 70000","2022/08/11 11:15:00","Cash","58000","21000","2000","61000"
-"Huy Thiên","A-3SLUJF4GWI3B","Bánh Canh Cua Linh","1/12, Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, Ho Chi Minh City, 70000","2022/08/26 18:11:00","Cash","226000","16000","2000","166000"
-"Huy Thiên","A-3VKENPDWWILE","Gà Nướng Cái Bang - Nguyễn Văn Lạc","1/12, Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, Ho Chi Minh City, 70000","2022/09/18 16:42:00","Cash","209000","16000","6000","156000"
-"Huy Thiên","A-443MRO7GWG85","BÚN CHẢ HÀ NỘI 1982 - ĐINH TIÊN HOÀNG","1/12, Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, Ho Chi Minh City, 70000","2022/10/23 11:13:00","Cash","209000","16000","2000","184000"
-"Huy Thiên","A-45WHJUSGWJ9A","The ""MỲ QUẢNG"" House & Coffee Bar","1/12, Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, Ho Chi Minh City, 70000","2022/10/30 11:13:00","Cash","215000","16000","2000","183000"
-"Huy Thiên","A-4E22KU7GWI2M","Quán Phở Bắc Hải","1/22 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/01/08 17:52:00","Cash","210000","16000","2000","154000"
-"Huy Thiên","A-4K2UX3UGWG8R","Trà Sữa Nọng Nguyễn Giản Thanh","268 Lý Thường Kiệt, P.14, Q.10, Hồ Chí Minh, 70000, Vietnam","2023/02/24 13:20:00","Cash","102000","16000","3000","72000"
-"Huy Thiên","A-4M4H5VVGWIQJ","Bún Chả Hà Nội 1982 - Bạch Đằng","1/22 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/03/12 11:27:00","Cash","212040","16000","3000","154040"
-"Huy Thiên","A-4OBPCHJWWIW4","Bánh Canh Huế - Phú Lộc","1/22 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/03/29 18:34:00","Cash","180000","16000","3000","144000"
-"Huy Thiên","A-4QLQIT2GWHWL","Cơm Gà Da Giòn Phú Quý","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/04/16 17:53:00","Cash","258000","16000","3000","197000"
-"Huy Thiên","A-4SFHJ99WWJ43","Mì Quảng 3 Anh Em (Chính Gốc) - Nguyễn Gia Trí","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/04/30 18:07:00","Cash","276500","16000","6000","209500"
-"Huy Thiên","A-4SNPAUUGWHKG","Bò Kho & Cà Ri Gà Xuân Thảo","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/05/02 18:08:00","Cash","200000","16000","6000","151000"
-"Huy Thiên","A-4TCDCL7WWIJA","Bún Đậu A Tòn","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/05/07 18:17:00","Cash","128000","16000","3000","103000"
-"Huy Thiên","A-4U97HQIWWHDJ","Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Ngô Tất Tố","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/05/14 18:10:00","Cash","242000","16000","3000","181000"
-"Huy Thiên","A-4V63ISLWWJN3","Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Ngô Tất Tố","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/05/21 18:22:00","Cash","276000","16000","3000","215000"
-"Huy Thiên","A-5W2UUGCGWJ9T","Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Ngô Tất Tố","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/05/28 18:28:00","Cash","322000","21000","3000","266000"
-"Huy Thiên","A-5WVO9CBWWE9N","Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Ngô Tất Tố","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/06/04 18:11:00","Cash","276000","16000","3000","212000"
-"Huy Thiên","A-5XSLWHAGWFF3","The ""MỲ QUẢNG"" House & Coffee Bar","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/06/11 18:32:00","Cash","253700","16000","3000","232700"
-"Huy Thiên","A-54J3RJDWWIOA","Bánh Canh Cua Đồng","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/07/02 18:20:00","Cash","235000","20000","3000","218000"
-"Huy Thiên","A-55FVL66GWGCR","Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Ngô Tất Tố","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/07/09 18:23:00","Cash","168000","16000","3000","137000"
-"Huy Thiên","A-5939CLKWWHHF","The ""MỲ QUẢNG"" House & Coffee Bar","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/08/06 18:07:00","Cash","165000","13000","3000","129000"
-"Huy Thiên","A-5AW5E8MWWIC5","Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Ngô Tất Tố","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/08/13 18:19:00","Cash","234000","16000","3000","184000"
-"Huy Thiên","A-5ASVBG7WWE7I","Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Ngô Tất Tố","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/08/20 18:08:00","Cash","288000","16000","3000","267000"
-"Huy Thiên","A-5DJG7CQGWHMM","The ""MỲ QUẢNG"" House & Coffee Bar","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/09/10 18:11:00","Cash","330000","16000","3000","262000"
-"Huy Thiên","A-5FD69L6WWIBW","Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Ngô Tất Tố","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/09/24 18:15:00","Cash","294000","16000","3000","233000"
-"Huy Thiên","A-5I3N5BKGWF3S","Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Ngô Tất Tố","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/10/15 18:20:00","Cash","236000","16000","3000","172800"
-"Huy Thiên","A-5JWIBPLWWFE5","Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Quận 1","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/10/22 18:33:00","Cash","288000","19000","6000","231000"
-"Huy Thiên","A-5JTB5SMWWGK3","Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Quận 1","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/10/29 18:08:00","Cash","288000","16000","6000","221000"
-"Huy Thiên","A-5KQ6SGGGWI5U","Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Quận 1","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/11/05 18:12:00","MoMo","334000","13000","6000","258000"
-"Huy Thiên","A-5LNW8KKGWJS8","Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Quận 1","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/11/12 17:55:00","Cash","288000","16000","6000","241000"
-"Huy Thiên","A-5MJKXWGGWHJH","Chè Bưởi Vĩnh Long - ĐIện Biên Phủ","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/11/19 16:35:00","MoMo","185000","16000","6000","193000"
-"Huy Thiên","A-5MJU8DFWWJ3O","Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Quận 1","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/11/19 18:27:00","Cash","341000","16000","6000","304000"
-"Huy Thiên","A-5NGNDIEWWJIE","Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Quận 1","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/11/26 18:11:00","Cash","288000","16000","6000","237000"
-"Huy Thiên","A-5ODILVLGWEQ4","Bún Đậu A Tòn","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/12/03 18:14:00","ZaloPay","398000","16000","3000","320000"
-"Huy Thiên","A-5PADMFFGWE9W","Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Quận 1","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/12/10 18:20:00","Cash","282000","13000","6000","242000"
-"Huy Thiên","A-5Q77UVBWWHHK","Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Ngô Tất Tố","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/12/17 18:10:00","Cash","288000","16000","3000","248000"
-"Huy Thiên","A-5QVSML2WWGQ2","Mì Quảng 3 Anh Em (Chính Gốc) - Nguyễn Văn Thủ","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/12/23 17:49:00","ZaloPay","297000","13000","6000","207000"
-"Huy Thiên","A-5RSQB8TWWGSW","Bún Chả Hà Nội 1982 - 16A Đinh Tiên Hoàng","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/12/30 18:16:00","MoMo","364000","18000","3000","318000"
-"Huy Thiên","A-5SWT6LDGWH6L","Bánh Canh JANGJI - Thích Quảng Đức","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2023/12/31 18:07:00","Cash","250000","23000","3000","212000"
-"Huy Thiên","A-5STORXVGWJ69","Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Ngô Tất Tố","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2024/01/07 18:17:00","MoMo","241000","13000","3000","199000"
-"Huy Thiên","A-5TQJSE9GWEXN","Bánh Canh JANGJI - Thích Quảng Đức","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2024/01/14 18:25:00","Cash","300000","18000","3000","242000"
-"Huy Thiên","A-5UNEPCMGWHCH","Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Ngô Tất Tố","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2024/01/21 18:30:00","Cash","290000","14000","3000","243000"
-"Huy Thiên","A-5VG628XWWJ9R","Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Ngô Tất Tố","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2024/01/27 18:19:00","MoMo","292000","16000","3000","231000"
-"Huy Thiên","A-5VK764UWWI6K","Bún Đậu A Tòn","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2024/01/28 17:48:00","MoMo","235000","13000","3000","171000"
-"Huy Thiên","A-5VK764UWWI6K","Bún Đậu A Tòn","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2024/01/28 17:48:00","MoMo","235000","13000","3000","171000"
-"Huy Thiên","A-6WH4M9VWWEX4","Mì Quảng 3 Anh Em (Chính Gốc) - Nguyễn Gia Trí","1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam","2024/02/04 18:19:00","Cash","287100","16000","6000","230100"
+user;order_id;store;destination;time;payment_method;raw_cost;shipping_cost;service_cost;user_paid
+Huy Thiên;A-378QURPGWH6W;Mr. Kitchen - Bánh Canh Cua - Nguyễn Cửu Vân;1/12, Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, Ho Chi Minh City, 70000;2022/03/13 11:06:00;Cash;48000;16000;2000;69000
+Huy Thiên;A-378QL7LWWIB7;Mr. Kitchen - Bánh Canh Cua - Nguyễn Cửu Vân;1/12, Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, Ho Chi Minh City, 70000;2022/03/13 11:02:00;Cash;288000;16000;2000;206000
+Huy Thiên;A-3AO2C8JWWGSM;Phở Phú Khương - Bạch Đằng;1/12, Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, Ho Chi Minh City, 70000;2022/04/09 11:04:00;Cash;300000;16000;2000;273000
+Huy Thiên;A-3BXN3MFWWGSM;Hủ Tiếu Xuân Kí Mì Gia;1/12, Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, Ho Chi Minh City, 70000;2022/04/11 19:16:00;Cash;480000;16000;2000;428000
+Huy Thiên;A-3CJWVKHGWF2U;"The ""MỲ QUẢNG"" House & Coffee Bar";1/12, Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, Ho Chi Minh City, 70000;2022/04/23 18:31:00;Cash;165000;16000;2000;118000
+Huy Thiên;A-3DFPJWCGWF4Q;Bò Kho & Cà Ri Gà Xuân Thảo;1/12, Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, Ho Chi Minh City, 70000;2022/04/30 18:06:00;Cash;200000;21000;2000;139000
+Huy Thiên;A-3EJTAQRWWGNC;Bún Thịt Xào - Dì Yến Bến Tre;268 Lý Thường Kiệt, P.14, Q.10, Hồ Chí Minh, 70000, Vietnam;2022/05/09 12:30:00;Cash;114000;16000;2000;82000
+Huy Thiên;A-3F88JI9WWFJA;Bún Mọc 123;1/12, Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, Ho Chi Minh City, 70000;2022/05/14 11:04:00;Cash;240000;16000;2000;213000
+Huy Thiên;A-3LJ2MWPWWHWT;Tiệm Chè Mùa Hè - Phạm Viết Chánh;1/12, Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, Ho Chi Minh City, 70000;2022/07/02 16:34:00;Cash;199000;16000;6000;171000
+Huy Thiên;A-3P5JF52WWEK2;Bún Chả Hà Nội 1982 -  Nguyễn Ngọc Lộc;268 Lý Thường Kiệt, P.14, Q.10, Hồ Chí Minh, 70000, Vietnam;2022/07/30 11:42:00;Cash;115320;16000;2000;78320
+Huy Thiên;A-3QMURLVG2GXQ;Cháo Sườn Cô Giang - Đinh Tiên Hoàng;1/12, Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, Ho Chi Minh City, 70000;2022/08/11 11:15:00;Cash;58000;21000;2000;61000
+Huy Thiên;A-3SLUJF4GWI3B;Bánh Canh Cua Linh;1/12, Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, Ho Chi Minh City, 70000;2022/08/26 18:11:00;Cash;226000;16000;2000;166000
+Huy Thiên;A-3VKENPDWWILE;Gà Nướng Cái Bang - Nguyễn Văn Lạc;1/12, Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, Ho Chi Minh City, 70000;2022/09/18 16:42:00;Cash;209000;16000;6000;156000
+Huy Thiên;A-443MRO7GWG85;BÚN CHẢ HÀ NỘI 1982 - ĐINH TIÊN HOÀNG;1/12, Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, Ho Chi Minh City, 70000;2022/10/23 11:13:00;Cash;209000;16000;2000;184000
+Huy Thiên;A-45WHJUSGWJ9A;"The ""MỲ QUẢNG"" House & Coffee Bar";1/12, Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, Ho Chi Minh City, 70000;2022/10/30 11:13:00;Cash;215000;16000;2000;183000
+Huy Thiên;A-4E22KU7GWI2M;Quán Phở Bắc Hải;1/22 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/01/08 17:52:00;Cash;210000;16000;2000;154000
+Huy Thiên;A-4K2UX3UGWG8R;Trà Sữa Nọng Nguyễn Giản Thanh;268 Lý Thường Kiệt, P.14, Q.10, Hồ Chí Minh, 70000, Vietnam;2023/02/24 13:20:00;Cash;102000;16000;3000;72000
+Huy Thiên;A-4M4H5VVGWIQJ;Bún Chả Hà Nội 1982 - Bạch Đằng;1/22 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/03/12 11:27:00;Cash;212040;16000;3000;154040
+Huy Thiên;A-4OBPCHJWWIW4;Bánh Canh Huế - Phú Lộc;1/22 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/03/29 18:34:00;Cash;180000;16000;3000;144000
+Huy Thiên;A-4QLQIT2GWHWL;Cơm Gà Da Giòn Phú Quý;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/04/16 17:53:00;Cash;258000;16000;3000;197000
+Huy Thiên;A-4SFHJ99WWJ43;Mì Quảng 3 Anh Em (Chính Gốc) - Nguyễn Gia Trí;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/04/30 18:07:00;Cash;276500;16000;6000;209500
+Huy Thiên;A-4SNPAUUGWHKG;Bò Kho & Cà Ri Gà Xuân Thảo;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/05/02 18:08:00;Cash;200000;16000;6000;151000
+Huy Thiên;A-4TCDCL7WWIJA;Bún Đậu A Tòn;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/05/07 18:17:00;Cash;128000;16000;3000;103000
+Huy Thiên;A-4U97HQIWWHDJ;Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Ngô Tất Tố;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/05/14 18:10:00;Cash;242000;16000;3000;181000
+Huy Thiên;A-4V63ISLWWJN3;Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Ngô Tất Tố;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/05/21 18:22:00;Cash;276000;16000;3000;215000
+Huy Thiên;A-5W2UUGCGWJ9T;Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Ngô Tất Tố;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/05/28 18:28:00;Cash;322000;21000;3000;266000
+Huy Thiên;A-5WVO9CBWWE9N;Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Ngô Tất Tố;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/06/04 18:11:00;Cash;276000;16000;3000;212000
+Huy Thiên;A-5XSLWHAGWFF3;"The ""MỲ QUẢNG"" House & Coffee Bar";1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/06/11 18:32:00;Cash;253700;16000;3000;232700
+Huy Thiên;A-54J3RJDWWIOA;Bánh Canh Cua Đồng;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/07/02 18:20:00;Cash;235000;20000;3000;218000
+Huy Thiên;A-55FVL66GWGCR;Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Ngô Tất Tố;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/07/09 18:23:00;Cash;168000;16000;3000;137000
+Huy Thiên;A-5939CLKWWHHF;"The ""MỲ QUẢNG"" House & Coffee Bar";1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/08/06 18:07:00;Cash;165000;13000;3000;129000
+Huy Thiên;A-5AW5E8MWWIC5;Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Ngô Tất Tố;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/08/13 18:19:00;Cash;234000;16000;3000;184000
+Huy Thiên;A-5ASVBG7WWE7I;Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Ngô Tất Tố;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/08/20 18:08:00;Cash;288000;16000;3000;267000
+Huy Thiên;A-5DJG7CQGWHMM;"The ""MỲ QUẢNG"" House & Coffee Bar";1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/09/10 18:11:00;Cash;330000;16000;3000;262000
+Huy Thiên;A-5FD69L6WWIBW;Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Ngô Tất Tố;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/09/24 18:15:00;Cash;294000;16000;3000;233000
+Huy Thiên;A-5I3N5BKGWF3S;Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Ngô Tất Tố;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/10/15 18:20:00;Cash;236000;16000;3000;172800
+Huy Thiên;A-5JWIBPLWWFE5;Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Quận 1;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/10/22 18:33:00;Cash;288000;19000;6000;231000
+Huy Thiên;A-5JTB5SMWWGK3;Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Quận 1;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/10/29 18:08:00;Cash;288000;16000;6000;221000
+Huy Thiên;A-5KQ6SGGGWI5U;Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Quận 1;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/11/05 18:12:00;MoMo;334000;13000;6000;258000
+Huy Thiên;A-5LNW8KKGWJS8;Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Quận 1;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/11/12 17:55:00;Cash;288000;16000;6000;241000
+Huy Thiên;A-5MJKXWGGWHJH;Chè Bưởi Vĩnh Long - ĐIện Biên Phủ;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/11/19 16:35:00;MoMo;185000;16000;6000;193000
+Huy Thiên;A-5MJU8DFWWJ3O;Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Quận 1;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/11/19 18:27:00;Cash;341000;16000;6000;304000
+Huy Thiên;A-5NGNDIEWWJIE;Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Quận 1;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/11/26 18:11:00;Cash;288000;16000;6000;237000
+Huy Thiên;A-5ODILVLGWEQ4;Bún Đậu A Tòn;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/12/03 18:14:00;ZaloPay;398000;16000;3000;320000
+Huy Thiên;A-5PADMFFGWE9W;Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Quận 1;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/12/10 18:20:00;Cash;282000;13000;6000;242000
+Huy Thiên;A-5Q77UVBWWHHK;Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Ngô Tất Tố;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/12/17 18:10:00;Cash;288000;16000;3000;248000
+Huy Thiên;A-5QVSML2WWGQ2;Mì Quảng 3 Anh Em (Chính Gốc) - Nguyễn Văn Thủ;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/12/23 17:49:00;ZaloPay;297000;13000;6000;207000
+Huy Thiên;A-5RSQB8TWWGSW;Bún Chả Hà Nội 1982 - 16A Đinh Tiên Hoàng;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/12/30 18:16:00;MoMo;364000;18000;3000;318000
+Huy Thiên;A-5SWT6LDGWH6L;Bánh Canh JANGJI - Thích Quảng Đức;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2023/12/31 18:07:00;Cash;250000;23000;3000;212000
+Huy Thiên;A-5STORXVGWJ69;Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Ngô Tất Tố;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2024/01/07 18:17:00;MoMo;241000;13000;3000;199000
+Huy Thiên;A-5TQJSE9GWEXN;Bánh Canh JANGJI - Thích Quảng Đức;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2024/01/14 18:25:00;Cash;300000;18000;3000;242000
+Huy Thiên;A-5UNEPCMGWHCH;Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Ngô Tất Tố;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2024/01/21 18:30:00;Cash;290000;14000;3000;243000
+Huy Thiên;A-5VG628XWWJ9R;Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Ngô Tất Tố;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2024/01/27 18:19:00;MoMo;292000;16000;3000;231000
+Huy Thiên;A-5VK764UWWI6K;Bún Đậu A Tòn;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2024/01/28 17:48:00;MoMo;235000;13000;3000;171000
+Huy Thiên;A-5VK764UWWI6K;Bún Đậu A Tòn;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2024/01/28 17:48:00;MoMo;235000;13000;3000;171000
+Huy Thiên;A-6WH4M9VWWEX4;Mì Quảng 3 Anh Em (Chính Gốc) - Nguyễn Gia Trí;1/12 Công Trường Tự Do, P.19, Q.Bình Thạnh, Hồ Chí Minh, 70000, Vietnam;2024/02/04 18:19:00;Cash;287100;16000;6000;230100
